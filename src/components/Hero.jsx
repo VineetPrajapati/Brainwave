@@ -35,7 +35,7 @@ const Hero = () => {
               />
             </span>
           </h1>
-          <p>
+          <p className="mb-4">
             Unleash the power of AI within Brainwave. Upgrade your productivity
             with Brainwave, the open AI chat app.
           </p>
